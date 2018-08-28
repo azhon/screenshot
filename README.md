@@ -11,6 +11,16 @@
 ```
 $ python __main__.py
 ```
+#### `/tools/config.json`项目配置文件介绍
+
+```
+{ 
+  //截图保存在电脑上目录
+  "save_path": "/Users/azhon/Desktop/",
+  // 截图成功是否删除手机上的截图
+  "delete_shot": "true"
+}
+```
 
 #### 运行效果
 <img src="https://img-blog.csdn.net/20180828213744250?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2Ffemhvbg==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" width="500"/>
