@@ -7,7 +7,7 @@
 
  > 不会安装的话网上找找教程，在配置个环境变量
 	
-#### 使用python执行`__main__.py`运行程序
+#### 进入到`screenshot`目录 使用python执行`__main__.py`运行程序
 
 ```
 $ python __main__.py
