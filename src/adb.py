@@ -56,7 +56,7 @@ class adb():
                         has_device = True
                         index += 1
                 self.all_device = all_device
-            time.sleep(2)
+            time.sleep(3)
 
     """ 
     执行adb命令
