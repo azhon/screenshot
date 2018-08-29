@@ -24,10 +24,10 @@ $ python __main__.py
 ```
 
 #### 运行效果
-<img src="https://img-blog.csdn.net/20180828213744250?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2Ffemhvbg==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" width="500"/>
+<img src="https://github.com/azhon/screenshot/blob/master/img/code_1.png" width="500"/>
 
  进行截图
 
-<img src="https://img-blog.csdn.net/20180828213935916?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2Ffemhvbg==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" width="500"/>
+<img src="https://github.com/azhon/screenshot/blob/master/img/code_2.png" width="500"/>
 
 ps:我觉得测试工程师使用起来应该会倍儿爽，同意的点个赞吧  (^-^)
